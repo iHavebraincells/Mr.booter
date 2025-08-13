@@ -51,7 +51,7 @@ echo -e "\033[47;3;35m Before using it, hide your IP.\033[0m"
 
 else   
 	clear
-        echo -e '\033[36;40;1m You entered the wrong code.'	
+        'echo -e '\033[36;40;1m You entered the wrong code.'	
 	sleep 1
 	clear 
 	bash Mr.booter.sh
