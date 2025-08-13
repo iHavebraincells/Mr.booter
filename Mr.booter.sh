@@ -16,7 +16,7 @@ Coded by Tray  discord user is got2muchbandz_
  \033[33;4mCTRL+C:\033[0m exit  
 
    \e[37m[01]\e[36m DDOS Attack,
-
+,
 
 #Option Selection
 
@@ -37,7 +37,7 @@ echo -e "\033[47;3;35m Full update...\033[0m"
 sleep 3
 bash Mr.booter.sh
 
-
+,
 elif [[ $islem == 01 || $islem == 01 ]]; then
 clear
 echo -e "\033[47;3;35m installing may take time\033[0m"
@@ -56,3 +56,4 @@ else
 	clear 
 	bash Mr.booter.sh
 fi
+,
